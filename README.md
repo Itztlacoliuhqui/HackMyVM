@@ -6,4 +6,11 @@ Todo instructivo o Cheat Sheet deberá ponerse a prueba únicamente en entornos 
 
 El uso inadecuado de la información contenida en este repositorio puede derivar en consecuencias legales para quien la emplee fuera de los contextos autorizados.
 
-Writeups by M1s3ry
+ _______  __    _______  ______   _______          
+(       )/  \  (  ____ \/ ___  \ (  ____ )|\     /|
+| () () |\/) ) | (    \/\/   \  \| (    )|( \   / )
+| || || |  | | | (_____    ___) /| (____)| \ (_) / 
+| |(_)| |  | | (_____  )  (___ ( |     __)  \   /  
+| |   | |  | |       ) |      ) \| (\ (      ) (   
+| )   ( |__) (_/\____) |/\___/  /| ) \ \__   | |   
+|/     \|\____/\_______)\______/ |/   \__/   \_/                                            
