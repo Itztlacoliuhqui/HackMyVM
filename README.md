@@ -6,4 +6,4 @@ Todo instructivo o Cheat Sheet deberá ponerse a prueba únicamente en entornos 
 
 El uso inadecuado de la información contenida en este repositorio puede derivar en consecuencias legales para quien la emplee fuera de los contextos autorizados.
 
-Written by Itztlacoliuhqui | HackMyVM: M1s3ry
+HackMyVM: M1s3ry
